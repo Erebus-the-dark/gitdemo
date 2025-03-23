@@ -1,0 +1,1 @@
+print("there is no hell,all the living beings are here")
